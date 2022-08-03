@@ -20,27 +20,7 @@ f) Removing columns that are not needed for further data exploration
 g) Saving the cleaned dataset.
 
 The following variables were selected after data cleaning for further analysis:
- 0   ListingNumber                        19771 non-null  object  
- 1   Term                                 19771 non-null  int64   
- 2   LoanStatus                           19771 non-null  object  
- 3   BorrowerAPR                          19771 non-null  float64 
- 4   BorrowerRate                         19771 non-null  float64 
- 5   LenderYield                          19771 non-null  float64 
- 6   ProsperScore                         19771 non-null  int32   
- 7   ListingCategory                      19771 non-null  category
- 8   BorrowerState                        19771 non-null  object  
- 9   Occupation                           19771 non-null  object  
- 10  EmploymentStatus                     19771 non-null  object  
- 11  AmountDelinquent                     19771 non-null  int32   
- 12  TotalProsperLoans                    19771 non-null  int32   
- 13  TotalProsperPaymentsBilled           19771 non-null  int32   
- 14  OnTimeProsperPayments                19771 non-null  int32   
- 15  ProsperPaymentsLessThanOneMonthLate  19771 non-null  int32   
- 16  ProsperPaymentsOneMonthPlusLate      19771 non-null  float64 
- 17  ProsperPrincipalBorrowed             19771 non-null  float64 
- 18  LoanOriginalAmount                   19771 non-null  int64   
- 19  LoanOriginationDate  
-
+(ListingNumber, Term, LoanStatus, BorrowerAPR, BorrowerRate, LenderYield, ProsperScore, ListingCategory,BorrowerState, Occupation, EmploymentStatus, AmountDelinquent, TotalProsperLoans, TotalProsperPaymentsBilled, OnTimeProsperPayments, ProsperPaymentsLessThanOneMonthLate, ProsperPaymentsOneMonthPlusLate, ProsperPrincipalBorrowed, LoanOriginalAmount, LoanOriginationDate)
 
 ## Summary of Findings
 
