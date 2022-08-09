@@ -40,7 +40,7 @@ In summary, having followed the outlined steps as provided in the introduction o
 
 7. The larger the amount of principal borrowed, the less value is the lender yield (interest rate). While loans that are going bad or that have high risk lead to high lender yield, it seems to appear that loans with low principal amount tend to turn bad for the borrower.
 
-8. The earlier the loans repaid, the more loans the lender is willing to give out as shown in the strong positive relationship betweem OnTimeProsperPayments and TotalProsperLoans.
+8. The earlier the loans repaid, the more loans the lender is willing to give out as shown in the strong positive relationship between OnTimeProsperPayments and TotalProsperLoans.
 
 9. Changes in the amount of loans delinquents can not be determined from other numeric variables as selected for this project.
 
